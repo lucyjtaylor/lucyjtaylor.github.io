@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lucy Taylor portfolio</title>
+    <title>Lucy Taylor</title>
     <link>https://lucyjtaylor.github.io/</link>
-    <description>Recent content on Lucy Taylor portfolio</description>
+    <description>Recent content on Lucy Taylor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://lucyjtaylor.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -36,10 +36,19 @@
     
     <item>
       <title>Mind&#39;s crisis tool</title>
-      <link>https://lucyjtaylor.github.io/portfolio/mind/</link>
+      <link>https://lucyjtaylor.github.io/portfolio/mind-crisis/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://lucyjtaylor.github.io/portfolio/mind/</guid>
+      <guid>https://lucyjtaylor.github.io/portfolio/mind-crisis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mind&#39;s web chat</title>
+      <link>https://lucyjtaylor.github.io/portfolio/mind-webchat/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://lucyjtaylor.github.io/portfolio/mind-webchat/</guid>
       <description></description>
     </item>
     
