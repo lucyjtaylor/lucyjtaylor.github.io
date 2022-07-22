@@ -2,19 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lucyjtaylor.github.io/portfolio/mind-webchat/</loc>
+    <loc>https://lucyjtaylor.github.io/portfolio/charity_experience/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url><url>
-    <loc>https://lucyjtaylor.github.io/portfolio/tech_standards/</loc>
+    <loc>https://lucyjtaylor.github.io/portfolio/government_experience/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url><url>
-    <loc>https://lucyjtaylor.github.io/portfolio/formula-1/</loc>
+    <loc>https://lucyjtaylor.github.io/portfolio/agency_experience/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url><url>
-    <loc>https://lucyjtaylor.github.io/contact/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <loc>https://lucyjtaylor.github.io/tags/agency/</loc>
+    <lastmod>2021-07-19T19:53:33+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/tags/audience/</loc>
+    <lastmod>2021-07-19T19:53:33+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/blogs/formula_1/</loc>
+    <lastmod>2021-07-19T19:53:33+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/blogs/</loc>
+    <lastmod>2021-07-19T19:53:33+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/tags/formula-1/</loc>
+    <lastmod>2021-07-19T19:53:33+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/tags/insights/</loc>
+    <lastmod>2021-07-19T19:53:33+05:30</lastmod>
   </url><url>
     <loc>https://lucyjtaylor.github.io/</loc>
+    <lastmod>2021-07-19T19:53:33+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/tags/</loc>
+    <lastmod>2021-07-19T19:53:33+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/tags/mental-health/</loc>
+    <lastmod>2021-07-17T22:53:58+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/blogs/web_chat/</loc>
+    <lastmod>2021-07-17T22:53:58+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/tags/mind/</loc>
+    <lastmod>2021-07-17T22:53:58+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/tags/web-chat/</loc>
+    <lastmod>2021-07-17T22:53:58+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/tags/dfe/</loc>
+    <lastmod>2021-07-17T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/tags/education/</loc>
+    <lastmod>2021-07-17T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/tags/guidance/</loc>
+    <lastmod>2021-07-17T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/tags/schools/</loc>
+    <lastmod>2021-07-17T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/tags/standards/</loc>
+    <lastmod>2021-07-17T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/blogs/technology_guidance/</loc>
+    <lastmod>2021-07-17T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/tags/example/</loc>
+    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/tags/markdown-syntax/</loc>
+    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/blogs/markdown-syntax/</loc>
+    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/tags/sample/</loc>
+    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://lucyjtaylor.github.io/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url><url>
     <loc>https://lucyjtaylor.github.io/about/</loc>
@@ -24,7 +87,5 @@
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url><url>
     <loc>https://lucyjtaylor.github.io/categories/</loc>
-  </url><url>
-    <loc>https://lucyjtaylor.github.io/tags/</loc>
   </url>
 </urlset>

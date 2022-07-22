@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DfE on Lucy Taylor</title>
+    <link>https://lucyjtaylor.github.io/tags/dfe/</link>
+    <description>Recent content in DfE on Lucy Taylor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Jul 2021 22:41:10 +0530</lastBuildDate><atom:link href="https://lucyjtaylor.github.io/tags/dfe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technology guidance</title>
+      <link>https://lucyjtaylor.github.io/blogs/technology_guidance/</link>
+      <pubDate>Sat, 17 Jul 2021 22:41:10 +0530</pubDate>
+      
+      <guid>https://lucyjtaylor.github.io/blogs/technology_guidance/</guid>
+      <description>Designed technology guidance for 24,000+ schools and colleges across the UK, explaining what technology they should be using to maximise the quality of education, and how to get it</description>
+    </item>
+    
+  </channel>
+</rss>

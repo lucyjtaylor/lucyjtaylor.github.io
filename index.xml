@@ -6,32 +6,68 @@
     <description>Recent content on Lucy Taylor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://lucyjtaylor.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jul 2021 19:53:33 +0530</lastBuildDate><atom:link href="https://lucyjtaylor.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Creating a mental health support web chat</title>
-      <link>https://lucyjtaylor.github.io/portfolio/mind-webchat/</link>
+      <title>Delivering effective mental health information and support</title>
+      <link>https://lucyjtaylor.github.io/portfolio/charity_experience/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://lucyjtaylor.github.io/portfolio/mind-webchat/</guid>
+      <guid>https://lucyjtaylor.github.io/portfolio/charity_experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Designing and improving digital services for the UK Government</title>
-      <link>https://lucyjtaylor.github.io/portfolio/tech_standards/</link>
+      <link>https://lucyjtaylor.github.io/portfolio/government_experience/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://lucyjtaylor.github.io/portfolio/tech_standards/</guid>
+      <guid>https://lucyjtaylor.github.io/portfolio/government_experience/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Social media marketing consultancy</title>
-      <link>https://lucyjtaylor.github.io/portfolio/formula-1/</link>
+      <title>Supporting brands to understand their audiences</title>
+      <link>https://lucyjtaylor.github.io/portfolio/agency_experience/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://lucyjtaylor.github.io/portfolio/formula-1/</guid>
+      <guid>https://lucyjtaylor.github.io/portfolio/agency_experience/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Audience growth</title>
+      <link>https://lucyjtaylor.github.io/blogs/formula_1/</link>
+      <pubDate>Mon, 19 Jul 2021 19:53:33 +0530</pubDate>
+      
+      <guid>https://lucyjtaylor.github.io/blogs/formula_1/</guid>
+      <description>Researched the behaviour of Formula 1 fans on social media, identified patterns and delivered recommendations of how the F1 brand could exploit these insights to grow their audience</description>
+    </item>
+    
+    <item>
+      <title>Mental health web chat</title>
+      <link>https://lucyjtaylor.github.io/blogs/web_chat/</link>
+      <pubDate>Sat, 17 Jul 2021 22:53:58 +0530</pubDate>
+      
+      <guid>https://lucyjtaylor.github.io/blogs/web_chat/</guid>
+      <description>Designed a web chat to provide timely, interactive and easily accessible mental health support from a real person</description>
+    </item>
+    
+    <item>
+      <title>Technology guidance</title>
+      <link>https://lucyjtaylor.github.io/blogs/technology_guidance/</link>
+      <pubDate>Sat, 17 Jul 2021 22:41:10 +0530</pubDate>
+      
+      <guid>https://lucyjtaylor.github.io/blogs/technology_guidance/</guid>
+      <description>Designed technology guidance for 24,000+ schools and colleges across the UK, explaining what technology they should be using to maximise the quality of education, and how to get it</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax</title>
+      <link>https://lucyjtaylor.github.io/blogs/markdown-syntax/</link>
+      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+      
+      <guid>https://lucyjtaylor.github.io/blogs/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
   </channel>
